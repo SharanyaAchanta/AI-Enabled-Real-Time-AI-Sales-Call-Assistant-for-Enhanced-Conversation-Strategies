@@ -38,7 +38,6 @@ The goal is to empower sales representatives with "AI-driven empathy" and conver
 ```text
 ├── app.py              # Streamlit Web Application (UI)
 ├── server_api.py       # FastAPI Server (AI Logic & Inference)
-├── test.py             # Script to verify backend connectivity
 ├── requirements.txt    # List of dependencies
 └── README.md           # Project Documentation
 ```
