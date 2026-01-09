@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+faster-whisper
+langchain-ollama
+pyngrok
+nest-asyncio
+sounddevice
+soundfile
+numpy
+pydantic
+python-dotenv
+requests        
